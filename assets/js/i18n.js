@@ -19,11 +19,12 @@ window.TEXTOS_EN = {
 
   // Seção de produtos
   sec_t: "New arrivals",
-  sec_p: "The latest from Apple and JBL,<br>picked for you.",
+  sec_p: "The latest from Apple, JBL and Stanley,<br>picked for you.",
   pr1: "Unibody design. One of a kind. Get your iPhone 18 Pro at iNPorts.",
   pr2: "Powered by the heart. 24-hour battery and more accurate health readings.",
   pr3: "Active Noise Cancellation and Personalized Spatial Audio for an immersive experience.",
   pr4: "Bigger and more powerful, yet lighter. Real sound for the pool and the party.",
+  pr5: "Stainless steel, double-wall insulated tumblers and jugs. Your drink stays cold all day.",
   buy: "Buy now",
 
   // Links
