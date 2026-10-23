@@ -23,7 +23,7 @@ window.TEXTOS_EN = {
   pr1: "Unibody design. One of a kind. Get your iPhone 18 Pro at iNPorts.",
   pr2: "Powered by the heart. 24-hour battery and more accurate health readings.",
   pr3: "Active Noise Cancellation and Personalized Spatial Audio for an immersive experience.",
-  pr4: "Deep bass, power to spare and music without limits.",
+  pr4: "100% original speakers and headphones, with warranty. The real JBL sound.",
   pr5: "Iconic design, thermal performance and style to keep up with you.",
   buy: "Buy now",
 
