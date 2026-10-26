@@ -19,10 +19,10 @@ window.TEXTOS_EN = {
 
   // Seção de produtos
   sec_t: "New arrivals",
-  sec_p: "The latest from Apple, JBL and Stanley,<br>picked for you.",
+  sec_p: "The latest from Apple, Xiaomi, JBL and Stanley,<br>picked for you.",
   pr1: "Unibody design. One of a kind. Get your iPhone 18 Pro at iNPorts.",
   pr2: "Powered by the heart. 24-hour battery and more accurate health readings.",
-  pr3: "Active Noise Cancellation and Personalized Spatial Audio for an immersive experience.",
+  pr3: "Redmi and POCO with cutting-edge technology and the best value on the market.",
   pr4: "100% original speakers and headphones, with warranty. The real JBL sound.",
   pr5: "Iconic design, thermal performance and style to keep up with you.",
   buy: "Buy now",
